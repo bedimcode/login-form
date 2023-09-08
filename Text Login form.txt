@@ -1,0 +1,20 @@
+========== LOGIN ==========
+.login__title
+Login
+
+.login__input - placeholder
+Email ID
+Password
+
+.login__check-label
+Remember me
+
+.login__forgot
+Forgot Password?
+
+.login__button
+Login
+
+.login__register
+Don't have an account?
+Register
